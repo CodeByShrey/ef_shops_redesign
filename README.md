@@ -1,7 +1,11 @@
-# ef-shops
+# ef-shops-redesign
 A shops system made in React for qbx_core and ox_inventory
 
-![FiveM_b2944_GTAProcess - April22 - 03 01 - 3496](https://github.com/jellyton69/ef_shops/assets/20498875/38df9b9b-8e3a-49e5-a12f-04f56d6fa132)
+## Screenshots
+
+![](https://media.discordapp.net/attachments/1187992976048271381/1373199844042346556/image.png?ex=68298b83&is=68283a03&hm=e293fb2bd4ffb6bf1f37a36465cdce8cade15b5800a691794dd6ef66adb45025&=&format=webp&quality=lossless&width=1429&height=653)
+
+![](https://media.discordapp.net/attachments/1187992976048271381/1373199844583280670/image.png?ex=68298b83&is=68283a03&hm=f37d7abcd1af4873b5909f0ea3c8d6d6395ad851b20793eaaa3008ff2eb8424f&=&format=webp&quality=lossless&width=1429&height=656)
 
 # Features
 - Client-side purchase validation (cash/card/weight/stock) + server-side security checks
