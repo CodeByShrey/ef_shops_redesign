@@ -13,7 +13,7 @@ import "non.geist";
 if (!isEnvBrowser()) fetchNui("Loaded");
 if (isEnvBrowser()) {
 	const root = document.getElementById("root");
-	root!.style.backgroundImage = 'url("https://files.jellyton.me/ShareX/2024/01/FiveM_b2802_GTAProcess_-_January15_-_22.12_-_3046.png")';
+	root!.style.backgroundImage = 'url("https://r2.fivemanage.com/GoT9ggvJQU94cTuQFMvtd/bg.png")';
 	root!.style.backgroundSize = "cover";
 	root!.style.backgroundRepeat = "no-repeat";
 	root!.style.backgroundPosition = "center";
